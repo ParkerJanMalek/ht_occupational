@@ -1,4 +1,5 @@
-# ht_occupational
+# ht_occupational update
+## Parker Malek, TSPi
 
 This repository contains an update for ht_occupational exposure model (https://github.com/USEPA/ht_occupational)
 
