@@ -1,0 +1,41 @@
+  Beginning fit_hurdle_model.py script.
+
+  Fitting Bayesian hierarchical model - Part 1. May take 10+ minutes...
+  Compiling new CVM
+  New version 0.212
+  Interrupted at 32,501 [32%]: Average Loss = 32,514
+  
+Beginning load_hurdle_model.py script.
+
+  Loading previously fit Bayesian hierarchical model - Part 1 object.
+  Beginning fit_hurdle_model.py script.
+
+  Fitting Bayesian hierarchical model - Part 1. May take 10+ minutes...
+  Beginning fit_hurdle_model.py script.
+
+  Fitting Bayesian hierarchical model - Part 1. May take 10+ minutes...
+  Interrupted at 26 [0%]: Average Loss = 99,655
+  
+Beginning load_hurdle_model.py script.
+
+  Loading previously fit Bayesian hierarchical model - Part 1 object.
+  Finished [100%]: Average Loss = 25,034
+  Beginning fit_hurdle_model.py script.
+
+  Fitting Bayesian hierarchical model - Part 1. May take 10+ minutes...
+  Finished [100%]: Average Loss = 25,034
+  Fitting Bayesian hierarchical model - Part 2. May take 10+ minutes...
+  Finished [100%]: Average Loss = 35,599
+  Model fitting - Part 1 completed. A copy of the part 2 model object was saved to: output/model_part2.file
+  Printing plot of model coefficients...
+  Model coefficient plot saved to: output/figures/fig3.png
+  Calculating training set model performance...
+  Beginning fit_hurdle_model.py script.
+
+  Fitting Bayesian hierarchical model - Part 1. May take 10+ minutes...
+  Interrupted at 503 [0%]: Average Loss = 82,779
+  Model fitting - Part 1 completed. A copy of the part 1 model object was saved to: output/model_part1.file
+  Fitting Bayesian hierarchical model - Part 2. May take 10+ minutes...
+  Beginning fit_hurdle_model.py script.
+
+  Fitting Bayesian hierarchical model - Part 1. May take 10+ minutes...

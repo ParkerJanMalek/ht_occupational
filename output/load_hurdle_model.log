@@ -1,0 +1,94 @@
+  finding looplift candidates
+  
+Beginning load_hurdle_model.py script.
+
+  Loading previously fit Bayesian hierarchical model - Part 1 object.
+  Loading previously fit Bayesian hierarchical model - Part 2 object.
+  Printing plot of model coefficients...
+  
+Beginning load_hurdle_model.py script.
+
+  Loading previously fit Bayesian hierarchical model - Part 1 object.
+  Loading previously fit Bayesian hierarchical model - Part 2 object.
+  Printing plot of model coefficients...
+  Model coefficient plot saved to: output/figures/fig3.png
+  Calculating training set model performance...
+  
+Beginning load_hurdle_model.py script.
+
+  Loading previously fit Bayesian hierarchical model - Part 1 object.
+  
+Beginning load_hurdle_model.py script.
+
+  Loading previously fit Bayesian hierarchical model - Part 1 object.
+  Loading previously fit Bayesian hierarchical model - Part 2 object.
+  Printing plot of model coefficients...
+  Model coefficient plot saved to: output/figures/fig3.png
+  Calculating training set model performance...
+  
+Beginning load_hurdle_model.py script.
+
+  Loading previously fit Bayesian hierarchical model - Part 1 object.
+  Loading previously fit Bayesian hierarchical model - Part 2 object.
+  Printing plot of model coefficients...
+  Model coefficient plot saved to: output/figures/fig3.png
+  Calculating training set model performance...
+  
+Beginning load_hurdle_model.py script.
+
+  Loading previously fit Bayesian hierarchical model - Part 1 object.
+  Loading previously fit Bayesian hierarchical model - Part 2 object.
+  Printing plot of model coefficients...
+  Model coefficient plot saved to: output/figures/fig3.png
+  Calculating training set model performance...
+  
+Beginning load_hurdle_model.py script.
+
+  Loading previously fit Bayesian hierarchical model - Part 1 object.
+  Loading previously fit Bayesian hierarchical model - Part 2 object.
+  Printing plot of model coefficients...
+  Model coefficient plot saved to: output/figures/fig3.png
+  Calculating training set model performance...
+  
+Beginning load_hurdle_model.py script.
+
+  Loading previously fit Bayesian hierarchical model - Part 1 object.
+  Loading previously fit Bayesian hierarchical model - Part 2 object.
+  Printing plot of model coefficients...
+  Model coefficient plot saved to: output/figures/fig3.png
+  Calculating training set model performance...
+  
+Beginning load_hurdle_model.py script.
+
+  Loading previously fit Bayesian hierarchical model - Part 1 object.
+  Loading previously fit Bayesian hierarchical model - Part 2 object.
+  Printing plot of model coefficients...
+  Model coefficient plot saved to: output/figures/fig3.png
+  Calculating training set model performance...
+  Sampling: [likelihood]
+  Part 1 - Training classification accuracy: 0.695
+  Part 1 - Training ROC area under the curve: 0.717
+  Part 1 - Null model training classification accuracy: 0.476
+  Part 1 - Null model training ROC area under the curve: 0.500
+  Sampling: [likelihood]
+  Part 2 - Training RMSE: 0.94
+  Part 2 - Null model training RMSE: 1.48
+  Sampling: [likelihood]
+  Calculating test set model performance...
+  Sampling: [likelihood]
+  Part 1 - Test classification accuracy: 0.759
+  Part 1 - Test ROC area under the curve: 0.793
+  Part 1 - Null model test classification accuracy: 0.474
+  Part 1 - Null model test ROC area under the curve: 0.500
+  Sampling: [likelihood, sampling_error]
+  Part 2 - Test RMSE for true positives: 38.78
+  Part 2 - Null model test RMSE for true positives: 1.40
+  OSHA training set with model predictions saved to: output/osha_train_predictions.csv
+  OSHA test set with model predictions saved to: output/osha_test_predictions.csv
+  Rows in full p1 samples: 46997
+  Rows in full p2 samples: 46997
+  Individual probabilistic samples saved to: output/probabilistic_samples/
+  Substance prediction tables (TableS1 and TableS2) saved to 'output/'
+  
+Completed load_hurdle_model.py script.
+
