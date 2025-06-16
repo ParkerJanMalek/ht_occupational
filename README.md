@@ -11,3 +11,6 @@ While most of the code remains the same, there are a few exceptions:
 1. The pymc function *sample_posterior_predictive* no longer supports a "sample" parameter. A work around for that would be to separately select out the desired sample before feeding into the function.
 2. Results of the *sample_posterior_predictive* function cannot be directly referenced. For example, a result called ppc_train cannot be referenced as ppc_train['likelihood'] but must be explicitly identified as
 ppc_train.posterior_predictive['likelihood'][0]
+
+
+Run load_hurdle_model_new.py to run the latests updated models (found in the model folder as .file). This should create the proper output of 1,4 dioxane and is found in the TableS2.csv output.
