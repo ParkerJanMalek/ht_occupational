@@ -26,7 +26,7 @@ from pytensor import shared
 import pytensor.tensor as tt
 import warnings
 warnings.filterwarnings("ignore", category=FutureWarning)
-os.chdir("G:/VCS/ht_occupation_update")
+os.chdir(".")
 
 import logging
 level    = logging.INFO
